@@ -2,6 +2,10 @@
 
 DigiX Presentation for Accenture Digital - December 11
 
+Before starting:
+
+run: python -m SimpleHTTPServer 8000, in the mat-plot-example folder.
+
 ## Chapters
 
 ### Introduction to Python and IPython
