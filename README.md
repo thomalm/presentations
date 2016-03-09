@@ -1,4 +1,6 @@
-# Presentations held 
+# Presentations
+
+A collection of presentations i have held at various venues.
 
 * Introduction to BI & Big Data - Westerdals (Oslo School of Arts, Communication and Technology) 18. March 2016
 * Introduction to Machine Learning in Python - Accenture DigiX 1. April 2016
