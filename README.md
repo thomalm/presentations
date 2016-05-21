@@ -2,13 +2,17 @@
 
 A collection of presentations i have held at various venues.
 
-* Introduction to BI & Big Data - Westerdals (Oslo School of Arts, Communication and Technology) 18. March 2016
-* Introduction to Machine Learning in Python - Accenture DigiX 1. April 2016
+## Introduction to Machine Learning in Python (1. April 2016)
 
-**Running the map-plot example**
+Internal presentation held at Accenture DigiX in Oslo.
 
-run: python -m SimpleHTTPServer 8000, in the mat-plot-example folder.
+## Introduction to BI & Big Data (18. March 2016)
 
-Inspiration:
-- https://github.com/jakevdp/sklearn_pycon2015
-- https://github.com/cs109/content
+Guest lecture held at Westerdals (Oslo School of Arts, Communication and Technology).
+
+**Running the Datamaps.js example:**
+
+```
+> cd map-plot-example
+> python -m SimpleHTTPServer 8000
+```
