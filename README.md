@@ -15,4 +15,6 @@ Guest lecture held at Westerdals (Oslo School of Arts, Communication and Technol
 ```
 > cd map-plot-example
 > python -m SimpleHTTPServer 8000
+> # Python 3
+> python -m http.server 8000
 ```
